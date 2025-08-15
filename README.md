@@ -46,6 +46,6 @@ The policy was built using the IAM visual editor and includes the following cond
 [`tag-enforcement-policies.json`](tag-enforcement-policies.json)
 
 ## Screenshots
-![](screenshots/1751723052906.jpg)
-![](screenshots/1751723052577.jpg)
-![](screenshots/1751723052800.jpg)
+![](screenshot/1751723052906.jpg)
+![](screenshot/1751723052577.jpg)
+![](screenshot/1751723052800.jpg)
