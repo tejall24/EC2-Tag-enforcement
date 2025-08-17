@@ -4,7 +4,7 @@ This project demonstrates how to enforce tagging policies on EC2 instances in AW
 
 As part of a personal learning exercise, I implemented tag enforcement using AWS IAM policies. This approach ensures that users cannot launch EC2 instances without applying required metadata through tags.
 
-## Objective
+#### Objective
 
 The goal is to prevent EC2 instance launches unless the following tags are provided:
 
